@@ -23,12 +23,12 @@ The model was trained on the [SMS Spam Collection Dataset](https://www.kaggle.co
 
 ##  Project Structure
 sms-spam-classifier/
-    ├── spam.csv # Dataset (from Kaggle)
-    ├── train_spam_classifier.py # Script to train and save model
-    ├── predict.py # Script to predict on new messages
-    ├── spam_model.joblib # Trained model (generated after training)
-    ├── requirements.txt # Project dependencies
-    └── README.md # Project documentation
+-  ├── spam.csv # Dataset (from Kaggle)
+-  ├── train_spam_classifier.py # Script to train and save model
+-  ├── predict.py # Script to predict on new messages
+-  ├── spam_model.joblib # Trained model (generated after training)
+-  ├── requirements.txt # Project dependencies
+-  └── README.md # Project documentation
 
 
 ---
@@ -54,7 +54,7 @@ sms-spam-classifier/
     pip install -r requirements.txt
     ```
 4. Download the dataset from Kaggle
-        Place the spam.csv file inside the project folder.
+    - Place the spam.csv file inside the project folder.
 
 ## Training the Model
 Run the training script:
