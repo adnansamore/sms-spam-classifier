@@ -1,0 +1,6 @@
+.venv/
+env/
+venv/
+.DS_Store
+*.swp
+spam_model.joblib
