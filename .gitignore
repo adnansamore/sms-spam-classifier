@@ -4,3 +4,6 @@ venv/
 .DS_Store
 *.swp
 spam_model.joblib
+__pycache__/
+*.pyc
+.pytest_cache/
